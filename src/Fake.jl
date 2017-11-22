@@ -15,5 +15,6 @@ module Fake
   include("hacker.jl")
   include("job.jl")
   include("number.jl")
+  include("team.jl")
 
 end
