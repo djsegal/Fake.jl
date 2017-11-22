@@ -1,5 +1,18 @@
+__precompile__()
+
 module Fake
 
-# package code goes here
+  using Pluck
+  using Revise
 
-end # module
+  include("bank.jl")
+  include("boolean.jl")
+  include("business.jl")
+  include("color.jl")
+  include("commerce.jl")
+  include("company.jl")
+
+  include("job.jl")
+  include("number.jl")
+
+end
