@@ -33,9 +33,9 @@ Pkg.add("Fake")
 ```julia
 using Fake
 
-Fake.Name.name     () #=> "Christophe Bartell"
+Fake.Name.name() # => "Christophe Bartell"
 
-Fake.Internet.email() #=> "kirsten.greenholt@corkeryfisher.info"
+Fake.Internet.email() # => "kirsten.greenholt@corkeryfisher.info"
 ```
 
 ## Contributing
