@@ -22,6 +22,7 @@ Contents
   - [Fake.Hacker](doc/hacker.md)
   - [Fake.Job](doc/job.md)
   - [Fake.Number](doc/number.md)
+  - [Fake.ProgrammingLanguage](doc/programming_language.md)
   - [Fake.Team](doc/team.md)
 - [Contributing](#contributing)
 - [License](#license)
