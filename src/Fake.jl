@@ -12,6 +12,7 @@ module Fake
   include("commerce.jl")
   include("company.jl")
 
+  include("hacker.jl")
   include("job.jl")
   include("number.jl")
 

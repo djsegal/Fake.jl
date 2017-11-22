@@ -19,6 +19,7 @@ Contents
   - [Fake.Color](doc/color.md)
   - [Fake.Commerce](doc/commerce.md)
   - [Fake.Company](doc/company.md)
+  - [Fake.Hacker](doc/hacker.md)
   - [Fake.Job](doc/job.md)
   - [Fake.Number](doc/number.md)
 - [Contributing](#contributing)
