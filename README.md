@@ -24,6 +24,7 @@ Contents
   - [Fake.Music](doc/music.md)
   - [Fake.Number](doc/number.md)
   - [Fake.ProgrammingLanguage](doc/programming_language.md)
+  - [Fake.Science](doc/science.md)
   - [Fake.Team](doc/team.md)
 - [Contributing](#contributing)
 - [License](#license)

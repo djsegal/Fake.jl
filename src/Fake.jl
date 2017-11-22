@@ -17,6 +17,7 @@ module Fake
   include("music.jl")
   include("number.jl")
   include("programming_language.jl")
+  include("science.jl")
   include("team.jl")
 
 end
