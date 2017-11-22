@@ -18,6 +18,7 @@ module Fake
   include("number.jl")
   include("programming_language.jl")
   include("science.jl")
+  include("slack_emoji.jl")
   include("team.jl")
 
 end

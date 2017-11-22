@@ -25,6 +25,7 @@ Contents
   - [Fake.Number](doc/number.md)
   - [Fake.ProgrammingLanguage](doc/programming_language.md)
   - [Fake.Science](doc/science.md)
+  - [Fake.SlackEmoji](doc/slack_emoji.md)
   - [Fake.Team](doc/team.md)
 - [Contributing](#contributing)
 - [License](#license)
