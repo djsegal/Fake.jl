@@ -23,7 +23,7 @@ function rand_in_range(a, b)
   a + cur_offset
 end
 
-function fetch_yml(cur_string::AbstractString)
+function peek_yml(cur_string::AbstractString)
   split_string = split(cur_string, ".")
 
   cur_yml = YAML.load(open(joinpath(
@@ -37,6 +37,12 @@ function fetch_yml(cur_string::AbstractString)
   for cur_key in split_string
     cur_value = cur_value[cur_key]
   end
+
+  cur_value
+end
+
+function fetch_yml(cur_string::AbstractString)
+  cur_value = peek_yml(cur_string)
 
   if isa(cur_value, AbstractArray)
     cur_value = pluck(cur_value)
