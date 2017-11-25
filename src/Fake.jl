@@ -3,7 +3,6 @@ __precompile__()
 module Fake
 
   using Pluck
-  using Revise
 
   include("bank.jl")
   include("boolean.jl")
