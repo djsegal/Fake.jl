@@ -1,7 +1,8 @@
 import YAML
 
-using Pluck
-using Case
+using Fake
+# using Pluck
+# using Case
 
 hex_characters = []
 append!(hex_characters, map(x -> string(x), 0:9))
