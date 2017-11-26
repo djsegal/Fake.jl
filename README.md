@@ -1,5 +1,5 @@
 # Fake [![Build Status](https://travis-ci.org/djsegal/Fake.jl.svg?branch=master)](https://travis-ci.org/djsegal/Fake.jl) [![codecov.io](http://codecov.io/github/djsegal/Fake.jl/coverage.svg?branch=master)](http://codecov.io/github/djsegal/Fake.jl?branch=master)
-This package is a port of Rails's Faker gem that generates fake data.
+This package is a port of Ruby's [Faker](https://github.com/stympy/faker) gem that generates fake data.
 
 ### NOTE
 
