@@ -78,7 +78,12 @@ end
 #  ingverb
 # ---------
 
-@test endswith(Fake.Hacker.ingverb(), "ing")
+cur_ing_verb = Fake.Hacker.ingverb()
+
+@test any(
+  x -> endswith(x, "ing"),
+  split(cur_ing_verb)
+)
 
 # ========
 #  number
