@@ -2,8 +2,6 @@ __precompile__()
 
 module Fake
 
-  # using Pluck
-
   include("bank.jl")
   include("boolean.jl")
   include("business.jl")
