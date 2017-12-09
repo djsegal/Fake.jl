@@ -22,6 +22,7 @@ Contents
   - [Fake.Hacker](doc/hacker.md)
   - [Fake.Job](doc/job.md)
   - [Fake.Music](doc/music.md)
+  - [Fake.Name](doc/name.md)
   - [Fake.Number](doc/number.md)
   - [Fake.ProgrammingLanguage](doc/programming_language.md)
   - [Fake.Science](doc/science.md)
